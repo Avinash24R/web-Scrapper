@@ -1,6 +1,7 @@
 # web-Scrappe
 
-This is my frist AI project. I 
+This is my frist AI project.
+
 ### Summary of the Web Scraping Website Project
 
 This project is a web application designed for scraping data from websites, built using **Streamlit** for the interactive user interface and **Ollama** for advanced data processing. The website provides a user-friendly platform for scraping web data, processing it, and visualizing the results with charts and tables. 
