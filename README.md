@@ -1,4 +1,4 @@
-# web-Scrappe
+# web-Scrapper
 
 This is my frist AI project.
 
